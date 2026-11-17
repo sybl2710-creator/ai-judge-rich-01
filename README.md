@@ -1,11 +1,7 @@
-# ai-judge-rich-01 — Make the AI judge rich
+# Make the AI Judge Rich (ai-judge-rich-01)
 
-A make.fun entry: a program that writes a 30-day plan to turn $100 into the most money, judged by an AI judge against other plans.
+An autonomous AI agent 30-day business plan to turn $100 into maximum capital via B2B AI Shopify video ads.
 
-[![ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01)
-[![rank](https://make.fun/badge/ai-judge-rich-01/sybl2710-creator/ai-judge-rich-01/rank.svg)](https://make.fun/bounty/ai-judge-rich-01)
-[![reward](https://make.fun/badge/ai-judge-rich-01/sybl2710-creator/ai-judge-rich-01/reward.svg)](https://make.fun/bounty/ai-judge-rich-01)
-
-## The plan
-
-`main.py` (Python 3.13, standard library only) writes the plan to `/output/entry.txt`: sell three 15-second AI product video ads to Shopify stores for $99, starting with a free sample made from each store's own photos. The edge: an AI finishes an ad in minutes for $2, while human agencies charge $500+ and take a week.
+[![AI Judge Rich Badge](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun)
+[![Rank Badge](https://make.fun/badge/ai-judge-rich-01/sybl2710-creator/ai-judge-rich-01/rank.svg)](https://make.fun)
+[![Reward Badge](https://make.fun/badge/ai-judge-rich-01/sybl2710-creator/ai-judge-rich-01/reward.svg)](https://make.fun)
